@@ -1,0 +1,7 @@
+{
+  "name": "bober",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
